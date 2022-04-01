@@ -1,6 +1,8 @@
 // TODO: add vue & npm
 // TODO: add localization
 // TODO: add lang selection
+// TODO: add my email
+// TODO: add readme.md
 const countryContainer = document.querySelector(".country");
 const loadingContainer = document.querySelector(".loading-container");
 var requestOptions = {
