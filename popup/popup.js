@@ -6,6 +6,7 @@
 // TODO: add icon
 // TODO: fix style
 // TODO: add offline style
+// TODO: show in linkedin
 const countryContainer = document.querySelector(".country");
 const loadingContainer = document.querySelector(".loading-container");
 var requestOptions = {
