@@ -4,6 +4,7 @@
 // TODO: add my email
 // TODO: add readme.md
 // TODO: add icon
+// TODO: fix style
 const countryContainer = document.querySelector(".country");
 const loadingContainer = document.querySelector(".loading-container");
 var requestOptions = {
