@@ -1,0 +1,12 @@
+
+{
+    "name": "Where is my ip",
+    "manifest_version": 2,
+    "version": "1.0",
+    "description": "A Chrome extension that displays your location using your IP",
+    "author": "Ebrahim Salehipanah",
+    "browser_action": {
+        "default_title": "Where is my ip",
+        "default_popup": "popup/popup.html"
+    }
+}
