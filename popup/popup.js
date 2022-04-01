@@ -5,6 +5,7 @@
 // TODO: add readme.md
 // TODO: add icon
 // TODO: fix style
+// TODO: add offline style
 const countryContainer = document.querySelector(".country");
 const loadingContainer = document.querySelector(".loading-container");
 var requestOptions = {
